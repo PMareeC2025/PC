@@ -1,0 +1,28 @@
+Research Track A - Experience and Storytelling
+1. Study 2-3 interactive portfolios or point-and-click interfaces. Record how quickly visitors can find actual work.
+    - Nomadic Tribe website: Easy to "enter" and easy to see the mouse (they use a small circle that gets bigger when hovering over a clickable object)
+    The sound is very cool and there is speech right away with words to read as the speak. As you move the mouse the screen reacts, it also gives queues as
+    to what you can do in each scene. For the second scene you can "drag" to sprout flowers from the ground. The scene is also actively moving which makes
+    it feel more real, the sound can also be turned off and it relatively easy to find. 
+    Scene: Still, but objects moving such as plants, you advance vertically "into the screen"
+    Cons: You can't skip things, so if you leave the site you have to go back to the start and go through the story again.
+
+    - Noel.heschung.com website: Translation from French to English is available which is very cool. Sound is easy to find. Controls are labeled
+    and have symbols to help. Hamburger menu available that allows you to traverse to different chapters. No skipping within the scene. You only have to press
+    to move the person once, you can't stop the person once they start,  for the movements I clicked the space bar even though it should have been right arrow
+    and it still moved.
+    Scene: Moving horizontally across screen, minimalistic, you use controls on the keyboard to move the character. Strictly black and white.
+
+    Sources used by developers: Custom code, React, WebGL, three.js, Webflow, Lottie, GSAP, Vue, Howler.js to name a few.
+
+Research Track B - Visual Language
+1. Collect 8-12 images showing original cozy, cinematic interiors: lighting, materials, perspective, and characters.
+2. Build a moodboard with three categories: architecture/furniture, lighting/color, and character/dialogue.
+3. Define 5 - 7 core colors and two type roles: espressive title style and readable interface style.
+4. Decide whether the room uses a straight-on view, angled perspective, or isometric view. Choose One.
+
+Research Track C - Implementation and Usability
+1. Read about DOM elements, layering/positioning, transitions, and responsive image scaling.
+2. Review Bootstrap modals and accessibility; decide how project details will open.
+3. Research keyboard focus, touch targets, text contrast, reduced motion, and optional sound.
+
