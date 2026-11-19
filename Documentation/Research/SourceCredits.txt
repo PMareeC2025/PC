@@ -3,13 +3,13 @@ Figma Moodboard 11_18_2026:
 Creator: Patience Chowning
 Title: Interactive Portfolio — Visual Language Research
 Platform: Figma
-Date: November 2026
+Date: November 18, 2026
 Source: https://www.figma.com/design/OFmRszkhYAUU0iRM1aLVjR/MoodBoard?node-id=0-1&t=uYdR6IcSDCQIacEf-1
 
 COLOR SELECTION:
 ChatGPT (color selection):
 Tool: OpenAI ChatGPT (GPT-6)
-Date: November 2026
+Date: November 18, 2026
 Purpose: Assisted with selecting 12 colors from the mood board and proposing 3 supplementary accent colors.
 
 MOODBOARD IMAGES:
@@ -71,7 +71,8 @@ Research purpose: Cozy late-night study nook ambiance, warm golden desk lamp lig
 
 Reference 09 — Lofi Workspace Vibes
 Creator: StockCake / FLUX.2 [max] (AI-Generated Illustration)
-Source: stockcake.com • Accessed: November 18, 2026
+Source: stockcake.com
+Accessed: November 18, 2026
 License: Free for commercial use (StockCake License)
 Research purpose: Cozy late-night workspace ambiance, warm amber task lighting, and lo-fi anime aesthetic styling
 
