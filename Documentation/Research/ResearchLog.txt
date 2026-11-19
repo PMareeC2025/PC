@@ -15,13 +15,27 @@ Research Track A - Experience and Storytelling
 
     Sources used by developers: Custom code, React, WebGL, three.js, Webflow, Lottie, GSAP, Vue, Howler.js to name a few.
 
-Research Track B - Visual Language
+Research Track B - Visual Language (google search, Figma, and stockcake for images)
 1. Collect 8-12 images showing original cozy, cinematic interiors: lighting, materials, perspective, and characters.
+    The images I chose are reflected in my moodboard on 11/18/2026. I chose these images because they mimic a reality that is fun, cozy, and academic.
+    All of these are things that I would use to describe myself and I am excited to see it come together.
 2. Build a moodboard with three categories: architecture/furniture, lighting/color, and character/dialogue.
-3. Define 5 - 7 core colors and two type roles: espressive title style and readable interface style.
+    The images I chose are reflected in my moodboard on 11/18/2026. I chose these images specifically because they reflect the atmosphere and reality
+    I want to build in my website. The lighting is soft/yellow-amber, the architecture is vintage/antique but still modern, the characters are studious and
+    realistic but still have a creative style to them i.e., animated but realistic.
+3. Define 5 - 7 core colors and two type roles: expressive title style and readable interface style.
+    The colors I chose are reflected in my color board on 11/18/2026. I specifically pulled these colors from the images I chose in my moodboard because they
+    help build the atmosphere (cozy, cinematic, fun, and academic).
 4. Decide whether the room uses a straight-on view, angled perspective, or isometric view. Choose One.
+    I chose to use an eye-level cinematic perspective, I really want the user who I will refer to the "visitor" to experience the room from a viewpoint closer
+    to where a person would stand or sit, as opposed to an isometric viewpoint.
 
-Research Track C - Implementation and Usability
+Research Track C - Sketching the Scenes
+1. Sketch the entrance
+2. Sketch the reception
+3. Sketch the Main Office
+
+Research Track D - Implementation and Usability
 1. Read about DOM elements, layering/positioning, transitions, and responsive image scaling.
 2. Review Bootstrap modals and accessibility; decide how project details will open.
 3. Research keyboard focus, touch targets, text contrast, reduced motion, and optional sound.

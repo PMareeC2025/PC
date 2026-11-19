@@ -1,0 +1,97 @@
+FIGMA:
+Figma Moodboard 11_18_2026:
+Creator: Patience Chowning
+Title: Interactive Portfolio — Visual Language Research
+Platform: Figma
+Date: November 2026
+Source: https://www.figma.com/design/OFmRszkhYAUU0iRM1aLVjR/MoodBoard?node-id=0-1&t=uYdR6IcSDCQIacEf-1
+
+COLOR SELECTION:
+ChatGPT (color selection):
+Tool: OpenAI ChatGPT (GPT-6)
+Date: November 2026
+Purpose: Assisted with selecting 12 colors from the mood board and proposing 3 supplementary accent colors.
+
+MOODBOARD IMAGES:
+Reference 01: Cozy Study Vibes
+Creator: StockCake (Nano Banana Pro AI-Generated Illustration)
+Source: stockcake.com
+Accessed: November 18, 2026
+License: Free for commercial use
+Research purpose: Cozy study desk ambiance, warm golden lamp light casting a soft amber glow across open textbooks, and dusk window atmosphere
+
+Reference 02: Late Night Studying
+Creator: StockCake (FLUX.2 [max] AI-Generated Illustration)
+Source: stockcake.com
+Accessed: November 18, 2026
+License: Free for commercial use
+Research purpose: Cozy late-night study nook ambiance, warm golden desk lamp lighting, and lo-fi anime illustration styling
+
+Reference 03: Dark Academia Wallpaper
+Creator: PixelsTalk (Digital Illustration)
+Source: pixelstalk.net
+Accessed: November 18, 2026
+License: Not verified — reference only
+Research purpose: Candlelit dark academia study ambiance, warm flickering candlelight contrasting with cool midnight starry sky through an arched gothic window, and floor-to-ceiling wooden bookshelves
+
+Reference 04 — Gothic Dark Academia Library (Featured in "15 Dark Academia House Ideas for Literary Charm")
+Creator: Lord Decor / Emily Carter (Article Author; original image creator uncredited)
+Source: Lord Decor (lorddecor.com)
+Accessed: November 18, 2026
+License: Not verified — reference only (Editorial blog feature)
+Research purpose: Two-story dark wood bookshelves with upper mezzanine railings, gothic arched window lighting, warm candle and lamp glow, leather tufted armchair, and antique study desk styling
+
+Reference 05: Cozy Lofi Study
+Creator: StockCake (GPT Image 2.5 AI-Generated Illustration)
+Source: stockcake.com
+Accessed: November 18, 2026
+License: Free for commercial use
+Research purpose: Late-night lofi study desk ambiance, dual-monitor glow contrasting with warm amber lamp lighting, and cozy rain-streaked window atmosphere
+
+Reference 06 — Dark Academia Apothecary | Cozy Rain & Potion Ambience
+Creator: Valespira (AI-Modified Illustration)
+Source: pinterest.com
+Accessed: November 18, 2026
+License: Not verified — reference only (Creator-uploaded social pin; marked "AI modified" on Pinterest)
+Research purpose: Moody Victorian greenhouse architecture, bioluminescent potion accents, and cozy dark academia storm lighting
+
+Reference 07 — A cozy dark library
+Creator: Folio / Filip Moták (Blender 3D Render)
+Source: blenderartists.org
+Accessed: November 18, 2026
+License: Not verified — reference only (Forum portfolio upload; incorporates third-party CC BY 4.0 and CC BY-NC-SA 4.0 3D assets by Kuba “Volant” Wójcik, Scar56, and Amatsukast)
+Research purpose: Dark academia library architecture, volumetric window light beams, green glass banker's lamps, and moody interior ambiance
+
+Reference 08 — Late Night Studying
+Creator: StockCake (FLUX.2 [max] AI-Generated Illustration)
+Source: stockcake.com
+Accessed: November 18, 2026
+License: Free for commercial use (StockCake license)
+Research purpose: Cozy late-night study nook ambiance, warm golden desk lamp lighting, and lo-fi anime illustration styling
+
+Reference 09 — Lofi Workspace Vibes
+Creator: StockCake / FLUX.2 [max] (AI-Generated Illustration)
+Source: stockcake.com • Accessed: November 18, 2026
+License: Free for commercial use (StockCake License)
+Research purpose: Cozy late-night workspace ambiance, warm amber task lighting, and lo-fi anime aesthetic styling
+
+Reference 10 — Classic Study Room (Featured in "15 Dark Academia House Ideas for Literary Charm")
+Creator: StockCake (AI-Generated Illustration; published in article by Emily Carter)
+Source: Lord Decor / StockCake
+Accessed: November 18, 2026
+License: Free for commercial use (via StockCake) / Editorial blog feature (Lord Decor)
+Research purpose: Floor-to-ceiling wooden bookshelves, warm candlelight and window light contrast, antique desk styling, and classic dark academia study composition
+
+Reference 11 — Cozy Rainy Night
+Creator: StockCake (GPT Image 2 AI-Generated Illustration)
+Source: stockcake.com
+Accessed: November 18, 2026
+License: Free for commercial use (StockCake license)
+Research purpose: Cozy rainy night bedroom ambiance, warm amber desk lamp lighting, neon cityscape reflections, and lo-fi anime illustration styling
+
+Reference 12 — Green Glass Bankers Desk Lamp
+Creator: TORCHSTAR (Brand / Product Photography)
+Source: amazon.com
+Accessed: November 18, 2026
+License: Not verified — reference only (Commercial product image)
+Research purpose: Warm task lighting, brass and emerald glass materials, and dark academia desk styling.
