@@ -6,6 +6,14 @@ Platform: Figma
 Date: November 18, 2026
 Source: https://www.figma.com/design/OFmRszkhYAUU0iRM1aLVjR/MoodBoard?node-id=0-1&t=uYdR6IcSDCQIacEf-1
 
+FIGMA:
+Figma Low-Fidelity Sketches & Wireframes:
+Creator: Patience Chowning
+Title: Low-Fidelity Sketches & Wireframes
+Platform: Figma
+Date: November 20, 2026
+Source: https://www.figma.com/design/LUf6VEBf6k3zruwSIYslkG/Low-Fidelity-Sketches---Wireframes?node-id=0-1&t=Dyia4bTEnvBQjAb2-1
+
 COLOR SELECTION:
 ChatGPT (color selection):
 Tool: OpenAI ChatGPT (GPT-6)

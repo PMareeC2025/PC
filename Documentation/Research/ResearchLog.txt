@@ -32,6 +32,8 @@ Research Track B - Visual Language (google search, Figma, and stockcake for imag
 
 Research Track C - Sketching the Scenes
 1. Sketch the entrance
+    I chose to use Figma to create a low-fidelity mockup of the entrance using basic shapes and colors. 11/20/2026, today I thought about
+    if I need to create a wiki but decided against it to keep everything more consolidated and manageable for myself. (this is a big project)
 2. Sketch the reception
 3. Sketch the Main Office
 
